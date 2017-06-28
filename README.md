@@ -1,7 +1,7 @@
 # Serverless ⚡ June
 [![Made with Serverless](https://img.shields.io/badge/serverless-⚡-yellow.svg?style=flat-square)](https://serverless.io) [![Norfolk JS Inspired](https://img.shields.io/badge/NorfolkJS-inspired-f3df49.svg?style=flat-square)](https://norfolkjs.org)
 
-When you combine a Lighning Talk on Serverless, an Alexa Skill promotion from Amazon, and the 757Dev community (with so much rain _no one_ wants to go outside) you've got all the makings of an epic rush of new Serverless devs and projects—Serverless June is born!
+When you combine Lightning Talks on [Serverless](https://github.com/lynnaloo) and [Dash/Alexa Hacking](https://github.com/raelshark), an Alexa Skill promotion from Amazon, and the 757Dev community (with so much rain _no one_ wants to go outside) you've got all the makings of an epic rush of new Serverless devs and projects—Serverless June is born!
 
 We're cataloging this awesome effort and will soon link up all of the projects and code developed by our community of developers, artists, and tinkerers.
 

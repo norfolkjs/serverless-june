@@ -5,6 +5,12 @@ When you combine Lightning Talks on [Serverless](https://github.com/lynnaloo) an
 
 We're cataloging this awesome effort and will soon link up all of the projects and code developed by our community of developers, artists, and tinkerers.
 
+### Projects
+
+- **Dylan Sheffer** _Alexa Tea Facts Skill_ ( [GitHub](https://github.com/dylansheffer/Alexa-Tea-Facts-Skill) | [Alexa](https://www.amazon.com/Dylan-Sheffer-Tea-Facts/dp/B071K2MJJQ/) ) 
+- **Jason Wilson** _Cumber Bot Alexa Skill_ ( [GitHub](https://github.com/sgiobairog/cumber-bot) | [Alexa](https://www.amazon.com/dp/B073BL81K7))
+- **Linda Nichols** _Beatlemania Serverless Functions_ ( [GitHub](https://github.com/lynnaloo/beatlemania) )
+
 ### How can I take part?
 Did NorfolkJS inspire you to build something new in the Serverless world? Did our resident Code-Ninja Cats spark your new Alexa skill? Did you get the idea in June? Send us a message with your repo and a link to the endpoint or skill and we'll throw it up.
 
@@ -19,3 +25,4 @@ Did NorfolkJS inspire you to build something new in the Serverless world? Did ou
 
 ### I missed it? My life is fail!
 Tell us about it and if there's interest you may help kick off an annual Serverless June. 
+

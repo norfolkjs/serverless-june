@@ -1,0 +1,9 @@
+[submodule "projects/dylansheffer/Alexa-Tea-Facts-Skill"]
+	path = projects/dylansheffer/Alexa-Tea-Facts-Skill
+	url = https://github.com/dylansheffer/Alexa-Tea-Facts-Skill
+[submodule "projects/lynnaloo/beatlemania"]
+	path = projects/lynnaloo/beatlemania
+	url = https://github.com/lynnaloo/beatlemania
+[submodule "projects/sgiobairog/cumber-bot"]
+	path = projects/sgiobairog/cumber-bot
+	url = https://github.com/sgiobairog/cumber-bot

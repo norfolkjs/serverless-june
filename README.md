@@ -8,6 +8,7 @@ We're cataloging this awesome effort and will soon link up all of the projects a
 ### Projects
 
 - **Dylan Sheffer** _Alexa Tea Facts Skill_ ( [GitHub](https://github.com/dylansheffer/Alexa-Tea-Facts-Skill) | [Alexa](https://www.amazon.com/Dylan-Sheffer-Tea-Facts/dp/B071K2MJJQ/) ) 
+- **Greg Norman** _Alexa Pressure Check Skill_ ( [GitHub](https://github.com/raelshark/Alexa_PressureCheck.git) | [Alexa](https://www.amazon.com/Greg-Norman-Pressure-Check/dp/B073J2Z178/) )
 - **Jason Wilson** _Cumber Bot Alexa Skill_ ( [GitHub](https://github.com/sgiobairog/cumber-bot) | [Alexa](https://www.amazon.com/dp/B073BL81K7))
 - **Linda Nichols** _Beatlemania Serverless Functions_ ( [GitHub](https://github.com/lynnaloo/beatlemania) )
 
